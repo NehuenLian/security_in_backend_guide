@@ -1,4 +1,4 @@
-## 2. Certificado X.509
+## 4. Certificado X.509
 
 Un certificado X.509 es una credencial que se utiliza para identificar a una entidad (como un servidor). Además de asegurar que el servidor es legítimo, también sirve para cifrar la comunicación y firmar datos para garantizar su autenticidad.
 

@@ -1,4 +1,4 @@
-## Cifrado y hashing: diferencias entre cada uno
+## 1. Cifrado y hashing: diferencias entre cada uno
 
 Tanto el cifrado como el hashing tienen el fin de proteger datos, pero con diferente enfoque según la naturaleza del dato a proteger y el contexto.
 

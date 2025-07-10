@@ -1,4 +1,4 @@
-## 3. Tokens and Digital Signatures
+## 5. Tokens and Digital Signatures
 
 ### What is a token?
 

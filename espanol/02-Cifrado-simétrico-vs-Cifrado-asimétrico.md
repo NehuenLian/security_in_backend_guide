@@ -1,4 +1,4 @@
-## Cifrado simétrico vs asimétrico
+## 2. Cifrado simétrico vs asimétrico
 
 Existen varios tipos de cifrado, pero el simétrico y el asimétrico son los más utilizados en el contexto de la web. Recordando que en el cifrado se utiliza una clave para cifrar y descifrar, tenemos:
 

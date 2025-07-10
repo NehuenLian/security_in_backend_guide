@@ -1,4 +1,4 @@
-## 7. AES
+## 8. AES
 
 AES (Advanced Encryption Standard) es un algoritmo de cifrado muy utilizado para proteger datos. Es un estándar común para cifrar comunicación HTTP de forma asimétrica, como vimos antes en TLS.
 

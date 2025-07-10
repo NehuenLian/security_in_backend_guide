@@ -1,4 +1,4 @@
-## 3. Tokens y firmas digitales
+## 5. Tokens y firmas digitales
 
 ### ¿Qué es un token?
 

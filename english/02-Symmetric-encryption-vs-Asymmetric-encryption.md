@@ -1,4 +1,4 @@
-## Symmetric vs Asymmetric Encryption
+## 2. Symmetric vs Asymmetric Encryption
 
 There are several types of encryption, but symmetric and asymmetric are the most commonly used in the context of the web. Remembering that encryption uses a key to encrypt and decrypt, we have:
 

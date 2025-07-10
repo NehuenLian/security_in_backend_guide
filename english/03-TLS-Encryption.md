@@ -2,7 +2,7 @@
 
 Below, I will explain the different security layers from bottom to top, to show how security is built at different levels.
 
-### 1. TLS Encryption
+### 3. TLS Encryption
 
 TLS is a cryptographic protocol that operates below the application layer (see OSI model). Its function is to encrypt communications between the client and the server, converting HTTP requests into HTTPS so that the content cannot be easily read or altered.
 

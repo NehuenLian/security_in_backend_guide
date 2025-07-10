@@ -1,4 +1,4 @@
-## 5. RSA
+## 9. RSA
 
 RSA es un algoritmo criptográfico **asimétrico**. Aunque puede usarse para cifrar datos, en este contexto nos interesa su aplicación a **firmas digitales**, como alternativa a HMAC para firmar tokens.
 

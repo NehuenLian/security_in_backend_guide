@@ -1,4 +1,4 @@
-## 5. RSA
+## 9. RSA
 
 RSA is an **asymmetric** cryptographic algorithm. Although it can be used to encrypt data, in this context we are interested in its application to **digital signatures**, as an alternative to HMAC for signing tokens.
 

@@ -1,4 +1,4 @@
-## Encryption and Hashing: Differences Between Them
+## 1. Encryption and Hashing: Differences Between Them
 
 Both encryption and hashing aim to protect data, but with different approaches depending on the nature of the data and the context.
 

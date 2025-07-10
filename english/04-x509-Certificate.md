@@ -1,4 +1,4 @@
-## 2. X.509 Certificate
+## 4. X.509 Certificate
 
 An X.509 certificate is a credential used to identify an entity (such as a server). Besides ensuring that the server is legitimate, it also serves to encrypt communication and sign data to guarantee its authenticity.
 

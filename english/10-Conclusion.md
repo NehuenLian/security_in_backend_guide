@@ -1,4 +1,4 @@
-## 8. Conclusion on Security Layers
+## 10. Conclusion on Security Layers
 
 On the web, there are at least four main security layers that work together to protect data and communications:
 

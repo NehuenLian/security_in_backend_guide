@@ -2,7 +2,7 @@
 
 A continuación, voy a explicar las distintas capas de seguridad que hay desde abajo hacia arriba, para mostrar cómo se va construyendo la seguridad en distintos niveles.
 
-### 1. Cifrado TLS
+### 3. Cifrado TLS
 
 TLS es un protocolo criptográfico que funciona debajo de la capa de aplicación (ver modelo OSI). Su función es cifrar las comunicaciones entre el cliente y el servidor, convirtiendo las peticiones HTTP en HTTPS para que el contenido no pueda ser leído ni alterado fácilmente.
 

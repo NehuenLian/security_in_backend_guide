@@ -1,4 +1,4 @@
-## 4. HMAC
+## 7. HMAC
 
 HMAC is a signing algorithm, from the acronym **Hash-based Message Authentication Code**, which uses a secret or shared key (depending on whether the architecture is monolithic or microservices).
 

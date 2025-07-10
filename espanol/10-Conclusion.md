@@ -1,4 +1,4 @@
-## 8. Conclusión sobre las capas de seguridad
+## 10. Conclusión sobre las capas de seguridad
 
 En la web existen al menos cuatro capas principales de seguridad que trabajan en conjunto para proteger datos y comunicaciones:
 
