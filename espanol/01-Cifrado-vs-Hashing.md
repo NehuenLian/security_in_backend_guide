@@ -42,5 +42,4 @@ Si aplicamos un algoritmo de hashing sobre el texto `"Hola mundo"`, obtenemos un
 d9e3f04a363698763cfc3c3cc50a757e7ce2e6a95b2a31eb3e4f639a2e2e3f28
 ```
 
-
 Este valor es único para ese texto, pero no es posible volver al texto original desde él. El hashing es un proceso de “viaje de ida”: una vez aplicado, no puede revertirse.
